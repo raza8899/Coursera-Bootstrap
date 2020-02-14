@@ -8,3 +8,10 @@ body{
 .jumbotron{
     background-color: #B3E5FC;
 }
+footer{
+    background-color: #0277BD;
+    color: white;
+}
+footer a{
+    color:white;
+}
