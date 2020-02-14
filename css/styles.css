@@ -1,0 +1,10 @@
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0px;
+}
+.navbar-dark{
+    background-color: #01579B;
+}
+.jumbotron{
+    background-color: #B3E5FC;
+}
