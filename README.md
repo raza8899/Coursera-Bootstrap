@@ -1,5 +1,5 @@
 # Responsive-Design-with-Bootstrap
-A repository to learn how to make a website more responsive using various things like Bootstrap, JQuery, JavaScript and also the use of Sass.
+It's a website for Restaurant and I have tried to make it responsive using Bootstrap and JavaScript.
 Please vist the below link to see the live version of website.
 
 
